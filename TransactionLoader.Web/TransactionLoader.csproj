@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>transaction_loader</RootNamespace>
+    <RootNamespace>TransactionLoader.Web</RootNamespace>
   </PropertyGroup>
 
 </Project>

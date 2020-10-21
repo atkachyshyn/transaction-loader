@@ -1,6 +1,6 @@
 using System;
 
-namespace transaction_loader.Models
+namespace TransactionLoader.Models
 {
     public class ErrorViewModel
     {

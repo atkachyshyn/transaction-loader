@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using transaction_loader.Models;
+using TransactionLoader.Models;
 
-namespace transaction_loader.Controllers
+namespace TransactionLoader.Controllers
 {
     public class HomeController : Controller
     {
